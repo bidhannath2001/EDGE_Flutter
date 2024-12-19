@@ -1,5 +1,5 @@
 ## Layout Design using row and column widget
-## Simple layout desing.
+## Simple layout design.
 <img src="assets/images/Layout.jpg" alt="Layout" width="300" />
 
 <!-- A few resources to get you started if this is your first Flutter project:
