@@ -2,7 +2,7 @@
 
 ## Getting Started
 Simple layout desing.
-![Project Logo](assets\images\Layout.jpg)
+![Layout](assets/images/Layout.jpg)
 
 <!-- A few resources to get you started if this is your first Flutter project:
 
