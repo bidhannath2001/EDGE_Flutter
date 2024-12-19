@@ -1,2 +1,2 @@
 ## Simple counter app using ElevatedButton
-<img src="Counter/img.jpg" alt="Layout" width="300" />
+<img src="img.jpg" alt="counter" width="300" />
