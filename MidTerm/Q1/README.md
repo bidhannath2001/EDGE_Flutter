@@ -1,3 +1,3 @@
 # Q1
 ## Output
-<img src="q1.jpg" alt="layout" width="300" />
+<img src="q1.JPG" alt="layout" width="300" />
