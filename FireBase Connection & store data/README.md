@@ -88,7 +88,17 @@ void main() async {
   runApp(MyApp());
 }
 ```
-
+To add data into firebase
+```dart
+  CollectionReference store =
+      FirebaseFirestore.instance.collection('client');
+  store.add({
+    'name': name.text,
+    'email': email.text,
+    'phone': phone.text,
+    'dob': dob.text,
+  });
+```
 ---
 
 ## Required Packages
@@ -103,7 +113,7 @@ dependencies:
 Click the **Get Package** icon in the top-right corner of the `pubspec.yaml` file to download and install the packages.
 # Output
 
-<img src="Layout.jpg" alt="layout" width="300" />
-<img src="database.JPG" alt="database" height="400" width="500" />
-<img src="console.JPG" alt="console" width="300" />
+| ![layout](Layout.jpg) | ![database](database.JPG)<br><br><br>![console](console.JPG) |
+|:----------------------:|:-------------------------------------------:|
+
 
